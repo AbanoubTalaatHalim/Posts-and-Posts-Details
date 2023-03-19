@@ -1,0 +1,40 @@
+.UserPostsScreen {
+    border-radius: 5px;
+
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  .UserPostsScreen h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .UserPostsScreen p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .UserPostsScreen ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .UserPostsScreen li {
+    margin-bottom: 5px;
+  }
+  
+  .UserPostsScreen li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .UserPostsScreen li a:hover {
+    text-decoration: underline;
+  }
+  

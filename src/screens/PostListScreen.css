@@ -1,0 +1,86 @@
+.post-list-search {
+    margin-bottom: 20px;
+  }
+  
+  .post-list-search-input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 300px;
+    font-size: 16px;
+  }
+  
+  .post-list-search-btn {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+
+.post-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .post-list-header {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .post-list-item {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post-list-item-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .post-list-item-body {
+    font-size: 16px;
+  }
+  
+  .post-list-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .post-list-pagination-btn {
+    background-color: #eee;
+    border: none;
+    border-radius: 4px;
+    color: #333;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  
+  .post-list-pagination-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  .post-list-pagination-page {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  
